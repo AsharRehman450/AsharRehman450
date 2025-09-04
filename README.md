@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashar</h1>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=asharrehmanali" alt="asharrehmanali" />
-  </a> 
-</p>
-
 - 👯 I’m looking to collaborate on **MERN and Frontend Projects**  
 - 🤝 I’m looking for help with **Frontend Development**  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AsharRehman450/Ashar-Rehman-Ali)  
