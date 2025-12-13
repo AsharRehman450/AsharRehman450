@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
 - 👯 I’m looking to collaborate on **MERN and Frontend Projects**  
-- 🤝 I’m looking for help with **Frontend Development**  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AsharRehman450/Ashar-Rehman-Ali)  
 - 💬 Ask me about **Frontend Development**  
 - 📫 How to reach me **asharrehmanali@gmail.com**  
